@@ -1,0 +1,26 @@
+@font-face{
+	font-family:Slack;
+	src:url(../fonts/slack-icons-Regular.html) format('woff2'),
+		url(../fonts/slack-icons-Regular.woff) format('woff');
+	font-style:normal;
+	font-weight:400
+}
+
+@font-face{
+	font-family:Averta;
+	src:url(../fonts/Averta.woff) format('woff');
+	/*src:url(../fonts/Averta-Regular.woff) format('otf');*/
+	font-weight:400
+}
+@font-face{
+	font-family:Averta;
+	src:url(../fonts/Averta%20Bold.woff) format('woff');
+	/*src:url(../fonts/Averta-Bold.woff) format('otf');*/
+	font-weight:600
+}
+@font-face{
+	font-family:Averta;
+	src:url(../fonts/Averta%20Extra%20Bold.woff) format('woff');
+	/*src:url(../fonts/Averta-ExtraBold.woff) format('otf');*/
+	font-weight:700
+}

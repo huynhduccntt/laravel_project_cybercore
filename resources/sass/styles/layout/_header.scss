@@ -1,0 +1,102 @@
+// Top header 
+
+.top-header {
+    background: #ED1C24;
+    height: 50px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+
+@media (min-width: 1000px) {
+    .container {
+        max-width: 1180px;
+    }
+}
+
+.top-user {
+    line-height: 50px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.top-user a {
+    color: #fff;
+    font-family: Averta;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.top-contact {
+    color: #fff;
+    line-height: 50px;
+}
+
+
+
+.top-contact>div {
+    float: right;
+    line-height: 50px;
+    height: 50px;
+    margin-left: 15px;
+    font-size: 18px;
+}
+
+.top-lang {
+    text-align: right;
+}
+
+.pull-left-sm-down a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.5s all;
+    font-size: 16px;
+}
+
+//Navbar
+.navbar {
+    min-height: 100px;
+    background: rgba(0, 0, 0, 0.7);
+    top: -100px;
+    position: unset;
+}
+
+.navbar-transparent {
+    background: transparent;
+}
+
+.navbar .container {
+    z-index: 9 !important;
+}
+
+.navbar-toggler-icon {
+    width: 40px;
+    height: 40px;
+}
+
+.navbar-toggler-icon img {
+    width: 100%;
+    height: 100%;
+}
+
+.nav-link:hover,
+.current-menu-item>.nav-link {
+    color: #fff;
+    font-weight: 600;
+    border-bottom: 2px solid #ED1C24;
+}
+
+.nav-link {
+    transition: 0.3s all;
+    border-width: 0px;
+}
+
+.nav-link {
+    text-transform: uppercase;
+    color: #d3d3d3;
+    border-bottom: 0px solid transparent;
+    margin: 0 2px;
+    transition: 0.2s all;
+}
