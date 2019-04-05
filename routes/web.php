@@ -18,10 +18,6 @@ Route::get('/', 'FrontendHomeController@HomePage')->name('Home');
 
 Route::get('/about-us', 'FrontendHomeController@AboutPage')->name('aboutPage');
 
-Route::get('/maintenance', 'FrontendHomeController@MaintenancePage')->name('maintenancePage');
-
-Route::get('/products', 'FrontendHomeController@ProductsPage')->name('productsPage');
-
 Route::get('/stores', 'FrontendHomeController@StoresPage')->name('storesPage');
 
 Route::get('/projects', 'FrontendHomeController@ProjectsPage')->name('projectsPage');

@@ -11,13 +11,16 @@
 // Import jQuery lib, Bootstrap ... etc
 
 // Themes
-// If we have themes, import specific styles here
+@import "themes/theme";
+@import "themes/responsive";
 
+// If we have themes, import specific styles here
 // Layout
 @import "layout/common";
 @import "layout/header";
 @import "layout/main";
 @import "layout/sidebar";
+@import "layout/slider";
 @import "layout/footer";
 
 // Components
@@ -44,7 +47,10 @@
 // Page specific styles
 
 // page
-// @import "page/header";
+@import "page/home";
+
+@import "page/contacts";
+
 // @import "page/index";
 // @import "page/exhibitor";
 // @import "page/qa";

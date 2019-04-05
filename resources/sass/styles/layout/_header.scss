@@ -1,5 +1,4 @@
 // Top header 
-
 .top-header {
     background: #ED1C24;
     height: 50px;
@@ -8,10 +7,36 @@
     overflow: hidden;
 }
 
-@media (min-width: 1000px) {
-    .container {
-        max-width: 1180px;
-    }
+.top-contact {
+    color: #fff;
+    line-height: 50px;
+}
+
+.top-contact>div {
+    float: right;
+    line-height: 50px;
+    height: 50px;
+    margin-left: 15px;
+    font-size: 18px;
+}
+
+.top-contact i:before {
+    font-size: 28px;
+    line-height: 50px;
+}
+
+.top-contact i {
+    float: left;
+    margin-right: 5px;
+}
+
+.top-lang {
+    text-align: right;
+}
+
+.top-lang img {
+    margin-top: -3px;
+    margin-left: 10px;
 }
 
 .top-user {
@@ -29,25 +54,6 @@
     font-size: 16px;
 }
 
-.top-contact {
-    color: #fff;
-    line-height: 50px;
-}
-
-
-
-.top-contact>div {
-    float: right;
-    line-height: 50px;
-    height: 50px;
-    margin-left: 15px;
-    font-size: 18px;
-}
-
-.top-lang {
-    text-align: right;
-}
-
 .pull-left-sm-down a {
     color: #fff;
     text-decoration: none;
@@ -55,13 +61,58 @@
     font-size: 16px;
 }
 
+.pull-left-sm-down img {
+    padding: 0 10px;
+}
+
 //Navbar
+
 .navbar {
     min-height: 100px;
     background: rgba(0, 0, 0, 0.7);
     top: -100px;
     position: unset;
 }
+
+.nav-link {
+    text-transform: uppercase;
+    color: #d3d3d3;
+    border-bottom: 0px solid transparent;
+    margin: 0 2px;
+    transition: 0.2s all;
+}
+
+.nav-link:hover,
+.current-menu-item>.nav-link {
+    color: #fff;
+    font-weight: 600;
+    border-bottom: 2px solid #ED1C24;
+}
+
+
+.navbar.menu-fixed {
+    position: fixed;
+    transition: all 0.4s ease-out 0s;
+    -webkit-transition: all 0.4s ease-out 0s;
+    -moz-transition: all 0.4s ease-out 0s;
+    -o-transition: all 0.4s ease-out 0s;
+    background: #000;
+    z-index: 999;
+    width: 100%;
+    top: 0;
+    min-height: unset;
+    padding: 5px 16px;
+}
+
+.navbar.menu-fixed+div>div:first-child {
+    margin-top: 100px;
+}
+
+.frontpage .navbar.menu-fixed+div>div:first-child,
+.maintenance-page .navbar.menu-fixed+div>div:first-child {
+    margin-top: -100px;
+}
+
 
 .navbar-transparent {
     background: transparent;
@@ -81,12 +132,6 @@
     height: 100%;
 }
 
-.nav-link:hover,
-.current-menu-item>.nav-link {
-    color: #fff;
-    font-weight: 600;
-    border-bottom: 2px solid #ED1C24;
-}
 
 .nav-link {
     transition: 0.3s all;

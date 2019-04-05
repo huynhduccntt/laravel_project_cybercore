@@ -15,28 +15,23 @@
                         </div>
                         <div class="pull-left-sm-down ah1">
                             <a href="tel:+84916666346">
-                                <!-- <i class="pe-7s-phone animated"></i> -->
                                 <img src="{{ URL::to('frontEnd/images/svg/head.svg') }}"><span class="hidden-sm-down">19002081</span></a>
                         </div>
 
                         <div class="pull-left-sm-down ah2">
                             <a href="tel:+84916666346">
-                                <!-- <i class="pe-7s-call animated"></i> -->
                                 <img src="{{URL::to('frontEnd/images/svg/phone.svg')}}"><span class="hidden-sm-down">0916666346</span></a>
                         </div>
                         <div class="pull-left-sm-down ah3">
                             <a href="mailto:info@cybercore.vn">
-                                <!-- <i class="pe-7s-mail animated"></i> -->
                                 <img src="{{URL::to('frontEnd/images/svg/mail.svg')}}"><span class="hidden-sm-down">info@cybercore.vn</span></a>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
 <nav class="navbar navbar-expand-lg navbar-transparent">
     <div class="container">
         <a class="navbar-brand" href="/"><img src="{{ URL::to('frontEnd/images/logo_1.png') }}"></a>
@@ -47,8 +42,6 @@
             <ul id="menu-main" class="navbar-nav ml-auto">
                 <li id="menu-item-2191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1985 current_page_item menu-item-2191 nav-item"><a class="nav-link" href="/">Trang Chủ</a></li>
                 <li id="menu-item-2192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2192 nav-item"><a class="nav-link" href="/about-us">Về Chúng Tôi</a></li>
-                <li id="menu-item-2197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2197 nav-item"><a class="nav-link" href="/maintenance">Bảo Trì</a></li>
-                <li id="menu-item-2198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2198 nav-item"><a class="nav-link" href="/products">Sản Phẩm</a></li>
                 <li id="menu-item-2199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2199 nav-item"><a class="nav-link" href="/stores">Hệ Thống</a></li>
                 <li id="menu-item-2195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2195 nav-item"><a class="nav-link" href="/projects">Dự Án</a></li>
                 <li id="menu-item-2194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2194 nav-item"><a class="nav-link" href="/events">Sự Kiện</a></li>

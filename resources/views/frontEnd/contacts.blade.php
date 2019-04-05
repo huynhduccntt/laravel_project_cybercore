@@ -1,6 +1,7 @@
 @extends('frontEnd.layout')
-
 @section('content')
+
+<!-- Text header  -->
 <div class="container" style="position: relative; ">
     <div class="vc_row wpb_row vc_row-fluid">
         <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -9,20 +10,18 @@
                     <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp contact-header-text nb-header wpb_start_animation animated">
                         <div class="wpb_wrapper">
                             <h1 style="text-align: center;">Liên hệ</h1>
-
                         </div>
                     </div>
-
                     <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp contact-header-sub nb-header wpb_start_animation animated">
                         <div class="wpb_wrapper">
                             <h1 style="text-align: center;">CHÚNG TÔI RẤT MONG ĐƯỢC NHẬN PHẢN HỒI TỪ QUÝ KHÁCH</h1>
-
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+<!-- Text location -->
     <div class="vc_row wpb_row vc_row-fluid">
         <div class="wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft wpb_column vc_column_container vc_col-sm-6 wpb_start_animation animated">
             <div class="vc_column-inner ">

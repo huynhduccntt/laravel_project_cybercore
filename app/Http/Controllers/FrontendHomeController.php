@@ -23,18 +23,7 @@ class FrontendHomeController extends Controller
             "frontEnd.aboutus"
         );
     }
-    public function MaintenancePage()
-    {
-        return view(
-            "frontEnd.maintenance"
-        );
-    }
-    public function ProductsPage()
-    {
-        return view(
-            "frontEnd.products"
-        );
-    }
+
     public function StoresPage()
     {
         return view(

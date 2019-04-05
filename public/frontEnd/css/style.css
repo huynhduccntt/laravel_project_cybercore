@@ -13,14 +13,31 @@
 	font-weight:400
 }
 @font-face{
-	font-family:Averta;
-	src:url(../fonts/Averta%20Bold.woff) format('woff');
+	/* font-family:Averta;
+	src:url(../fonts/Averta%20Bold.woff) format('woff'); */
 	/*src:url(../fonts/Averta-Bold.woff) format('otf');*/
-	font-weight:600
+	/* font-weight:600 */
 }
 @font-face{
-	font-family:Averta;
-	src:url(../fonts/Averta%20Extra%20Bold.woff) format('woff');
+	/* font-family:Averta;
+	src:url(../fonts/Averta%20Extra%20Bold.woff) format('woff'); */
 	/*src:url(../fonts/Averta-ExtraBold.woff) format('otf');*/
-	font-weight:700
+	/* font-weight:700 */
+}
+
+@font-face{font-family:'Slack v2';
+	src:url(slack-icons-v2.woff2) format('woff2'),
+		url(slack-icons-v2.woff) format('woff');
+	font-style:normal;
+	font-weight:400
+}
+@font-face {
+	font-family: 'Pe-icon-7-stroke';
+	src:url('../fonts/Pe-icon-7-stroke.eot?d7yf1v');
+	src:url('../fonts/Pe-icon-7-stroke.eot?#iefixd7yf1v') format('embedded-opentype'),
+		url('../fonts/Pe-icon-7-stroke.woff?d7yf1v') format('woff'),
+		url('../fonts/Pe-icon-7-stroke.ttf?d7yf1v') format('truetype'),
+		url('../fonts/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }

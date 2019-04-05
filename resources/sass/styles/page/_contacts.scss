@@ -1,0 +1,146 @@
+// body.contact-page {
+//     background: url(./frontEnd/images/contact-bg.png) no-repeat #373737 center top;
+// }
+body.contact-page {
+    background: no-repeat #373737 center top;
+}
+
+//Layout
+.n-header h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #fff;
+}
+
+.nb-header h1 {
+    text-transform: uppercase;
+    font-family: Averta;
+    font-weight: bolder;
+    font-size: 30px;
+    color: #fff;
+}
+
+.contact-header-text h1 {
+    font-weight: 550 !important;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: -10px !important;
+}
+
+.contact-header-sub h1 {
+    font-weight: 500 !important;
+    font-size: 26px;
+    margin-bottom: 80px !important;
+}
+
+.contact-method-icon {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 80px;
+    text-align: center !important;
+}
+
+.contact-method {
+    padding-left: 80px !important;
+    padding-right: 50px !important;
+    padding-top: 5px !important;
+    margin-bottom: 10px;
+}
+
+.contact-method-header h1 {
+    text-transform: uppercase;
+    font-family: Averta;
+    font-weight: bolder;
+    font-size: 20px;
+    color: #fff;
+}
+
+.contact-method-description p {
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.contact-method-header {
+    margin-bottom: 12px !important;
+}
+
+.contact-inputs input[type="text"],
+.contact-inputs textarea {
+    background: transparent;
+    width: 100%;
+    padding: 12px 20px;
+    border: 1px solid #fff;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.n-button>* {
+    text-transform: uppercase !important;
+    font-weight: bold !important;
+    padding: 10px 20px !important;
+    font-size: 18px !important;
+    background-color: #f23630 !important;
+}
+
+.n-button>*:hover {
+    background-color: #F4524D !important;
+}
+
+.contact-inputs ::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: #fff;
+}
+
+.contact-inputs ::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #fff;
+}
+
+.contact-inputs :-ms-input-placeholder {
+    /* IE 10+ */
+    color: #fff;
+}
+
+.contact-inputs :-moz-placeholder {
+    /* Firefox 18- */
+    color: #fff;
+}
+
+.contact-inputs {
+    margin-bottom: 0 !important;
+}
+
+.contact-right-column:before {
+    content: "";
+    height: 100%;
+    position: absolute;
+    width: 1px;
+    background: #ED1C24;
+    left: -25px;
+}
+
+.contact-right-column {
+    margin-bottom: 100px !important;
+}
+
+.contact-map {
+    margin-bottom: 0 !important;
+}
+
+#thank {
+    background: #fff;
+    max-width: 400px;
+    background-size: contain;
+    min-height: 500px;
+    border-radius: 10px;
+    /*padding-top: 300px;*/
+    text-align: center;
+    margin: 0 auto;
+    display: none;
+    padding: 40px 20px;
+    font-size: 18px;
+}
+
+// Something
