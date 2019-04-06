@@ -1,4 +1,4 @@
-<main class="main-content" style="position: relative;   top: -100px; max-width: 1280px !important; ">
+<main class="main-content" style="position: relative;   top: -100px; ">
   <section class="slideshow">
     <div class="slideshow-inner">
       <div class="slides">

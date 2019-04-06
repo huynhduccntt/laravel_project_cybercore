@@ -60,7 +60,7 @@
 
 @media (max-width: 768px) {
     .frontpage footer {
-        margin-top: -700px !important
+        margin-top: -500px !important
     }
 
     .slideshow .slide .title {
@@ -85,7 +85,7 @@
 @media (max-width: 991px) {
     .frontpage footer {
         background: transparent;
-        margin-top: -700px;
+        margin-top: -500px;
     }
 
     .slideshow .slide .title {
@@ -104,4 +104,9 @@
     .vc_column_container>.vc_column-inner{
         margin-top: 40px;
     }
+}
+.config-info {
+    background: #fefefe;
+    color: black;
+    padding: 20px 0;
 }

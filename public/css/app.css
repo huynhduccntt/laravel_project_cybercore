@@ -8278,7 +8278,6 @@ a.dang-ky-bao-gia:hover {
   text-align: left !important;
   font-size: 16px;
   font-family: Averta;
-  color: #d3d3d3;
 }
 
 .category_news {
@@ -8852,7 +8851,7 @@ footer {
 
 .frontpage footer {
   background: transparent;
-  margin-top: -450px;
+  margin-top: -300px;
   /*margin-top: -580px;*/
 }
 
@@ -10222,7 +10221,6 @@ div#google-map-contact {
   list-style: none !important;
   font-size: 16px;
   font-family: Averta;
-  color: #d3d3d3;
 }
 
 .home-features-feature-text li {
@@ -10628,7 +10626,7 @@ body.contact-page {
 
 @media (max-width: 768px) {
   .frontpage footer {
-    margin-top: -700px !important;
+    margin-top: -500px !important;
   }
 
   .slideshow .slide .title {
@@ -10659,7 +10657,7 @@ body.contact-page {
 @media (max-width: 991px) {
   .frontpage footer {
     background: transparent;
-    margin-top: -700px;
+    margin-top: -500px;
   }
 
   .slideshow .slide .title {
@@ -10685,5 +10683,11 @@ body.contact-page {
   .vc_column_container > .vc_column-inner {
     margin-top: 40px;
   }
+}
+
+.config-info {
+  background: #fefefe;
+  color: black;
+  padding: 20px 0;
 }
 

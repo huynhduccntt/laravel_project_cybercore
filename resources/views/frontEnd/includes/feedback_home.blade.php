@@ -1,3 +1,5 @@
+<div class="container " style="position: relative;  ">
+
 <div id="y-kien" data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid" >
     <div class="wpb_column vc_column_container vc_col-sm-12">
         <div class="vc_column-inner ">
@@ -97,4 +99,5 @@
             </div>
         </div>
     </div>
+</div>
 </div>
