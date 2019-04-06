@@ -1,4 +1,4 @@
-<div data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid vc_custom_1532200561827 vc_row-has-fill" style="position: relative; left: -43px; box-sizing: border-box; width: 1266px; padding-left: 43px; padding-right: 43px;">
+<div data-vc-full-width="true" class="vc_row wpb_row vc_row-fluid vc_custom_1532200561827 vc_row-has-fill">
     <div class="wpb_column vc_column_container vc_col-sm-12">
         <div class="vc_column-inner ">
             <div class="wpb_wrapper">
@@ -6,8 +6,8 @@
 
                 <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top home-processes-header-text wpb_start_animation animated">
                     <div class="wpb_wrapper">
-                        <h1 style="text-align: center; font-size: 32px; font-weight: 600; color: #fff !important;" >QUY TRÌNH LÀM VIỆC<span></span><span></span><span></span><span></span></h1>
-                        <h1 style="text-align: center; font-size: 24px; font-weight: 400; color: #f00 !important;">HỆ THỐNG CYBER CORE<span></span><span></span><span></span><span></span></h1>
+                        <h1 style="text-align: center; font-size: 32px; font-weight: 600; color: #f0c20f !important">QUY TRÌNH LÀM VIỆC<span></span><span></span><span></span><span></span></h1>
+                        <h1 style="text-align: center; font-size: 24px; font-weight: 400; color: #ffff !important;">HỆ THỐNG CYBER CORE<span></span><span></span><span></span><span></span></h1>
 
                     </div>
                 </div>
@@ -31,8 +31,8 @@
 
                                 <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_left-to-right left-to-right home-processes-process-header wpb_start_animation animated">
                                     <div class="wpb_wrapper">
-                                        <h1>Tiếp nhận</h1>
-                                        <h1>thông tin khách hàng</h1>
+                                        <h1  style=" color: #f0c20f !important;">Tiếp nhận</h1>
+                                        <h1  style=" color: #f0c20f !important;">thông tin khách hàng</h1>
 
                                     </div>
                                 </div>
@@ -66,8 +66,8 @@
 
                                 <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_right-to-left right-to-left home-processes-process-header wpb_start_animation animated">
                                     <div class="wpb_wrapper">
-                                        <h1>Khảo sát</h1>
-                                        <h1>&amp; tư vấn thiết kế</h1>
+                                        <h1  style=" color: #f0c20f !important;">Khảo sát</h1>
+                                        <h1  style=" color: #f0c20f !important;">&amp; tư vấn thiết kế</h1>
 
                                     </div>
                                 </div>
@@ -103,8 +103,8 @@
 
                                 <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_left-to-right left-to-right home-processes-process-header wpb_start_animation animated">
                                     <div class="wpb_wrapper">
-                                        <h1>Thi công, trang trí</h1>
-                                        <h1>và lắp đặt phòng máy</h1>
+                                        <h1  style=" color: #f0c20f !important;">Thi công, trang trí</h1>
+                                        <h1  style=" color: #f0c20f !important;">và lắp đặt phòng máy</h1>
 
                                     </div>
                                 </div>
@@ -138,7 +138,7 @@
 
                                 <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_right-to-left right-to-left home-processes-process-header wpb_start_animation animated">
                                     <div class="wpb_wrapper">
-                                        <h1>Cài đặt phần mềm</h1>
+                                        <h1  style=" color: #f0c20f !important;">Cài đặt phần mềm</h1>
 
                                     </div>
                                 </div>
@@ -174,7 +174,7 @@
 
                                 <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_left-to-right left-to-right home-processes-process-header wpb_start_animation animated">
                                     <div class="wpb_wrapper">
-                                        <h1>Khai trương</h1>
+                                        <h1  style=" color: #f0c20f !important;">Khai trương</h1>
 
                                     </div>
                                 </div>
@@ -208,7 +208,7 @@
 
                                 <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_right-to-left right-to-left home-processes-process-header wpb_start_animation animated">
                                     <div class="wpb_wrapper">
-                                        <h1>Chăm sóc khách hàng</h1>
+                                        <h1  style=" color: #f0c20f !important;" >Chăm sóc khách hàng</h1>
 
                                     </div>
                                 </div>

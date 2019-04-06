@@ -1,4 +1,4 @@
-<div id="stores" data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid home-stores vc_custom_1532208195405 vc_row-has-fill" style="position: relative; left: -43px; box-sizing: border-box; width: 1266px; padding-left: 43px; padding-right: 43px;">
+<div id="stores" data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid home-stores vc_custom_1532208195405 vc_row-has-fill">
     <div class="wpb_column vc_column_container vc_col-sm-12">
         <div class="vc_column-inner ">
             <div class="wpb_wrapper">
@@ -6,7 +6,7 @@
 
                 <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">
                     <div class="wpb_wrapper">
-                        <h1 style="text-align: center; font-size: 32px; font-weight: 600; color: #fff !important;">HỆ THỐNG CỦA CYBERCORE</h1>
+                        <h1 style="text-align: center; font-size: 32px; font-weight: 600; color: #f1c40f !important;">HỆ THỐNG CỦA CYBERCORE</h1>
 
                     </div>
                 </div>

@@ -1,4 +1,4 @@
-<div data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid vc_custom_1532203500873 vc_row-has-fill" style="position: relative; left: -43px; box-sizing: border-box; width: 1266px; padding-left: 43px; padding-right: 43px;">
+<div data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid vc_custom_1532203500873 vc_row-has-fill" style=" background: #1e90ff !important;">
     <div class="wpb_column vc_column_container vc_col-sm-12">
         <div class="vc_column-inner ">
             <div class="wpb_wrapper">

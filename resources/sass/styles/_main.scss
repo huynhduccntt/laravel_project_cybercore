@@ -56,3 +56,52 @@
 // @import "page/qa";
 // @import "page/sponsor";
 // @import "page/footer";
+
+
+@media (max-width: 768px) {
+    .frontpage footer {
+        margin-top: -700px !important
+    }
+
+    .slideshow .slide .title {
+        font-size: 20px;
+    }
+
+    .btn {
+        padding: 0px;
+    }
+    .home-processes-process-two, .home-processes-process-four, .home-processes-process-six {
+        padding-left: 0px !important; 
+    }
+    .home-processes-process-one, .home-processes-process-three, .home-processes-process-five {
+        padding-right: 0px !important;
+    }
+    .vc_column_container>.vc_column-inner{
+        margin-top: 40px;
+    }
+
+}
+
+@media (max-width: 991px) {
+    .frontpage footer {
+        background: transparent;
+        margin-top: -700px;
+    }
+
+    .slideshow .slide .title {
+        font-size: 20px;
+    }
+
+    .btn {
+        padding: 0px;
+    }
+    .home-processes-process-two, .home-processes-process-four, .home-processes-process-six {
+        padding-left: 0px !important; 
+    }
+    .home-processes-process-one, .home-processes-process-three, .home-processes-process-five {
+        padding-right: 0px !important;
+    }
+    .vc_column_container>.vc_column-inner{
+        margin-top: 40px;
+    }
+}

@@ -1,4 +1,4 @@
-<div data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid vc_custom_1532204392179 vc_row-has-fill" style="position: relative; left: -43px; box-sizing: border-box; width: 1266px; padding-left: 43px; padding-right: 43px;">
+<div data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid vc_custom_1532204392179 vc_row-has-fill" >
     <div class="wpb_column vc_column_container vc_col-sm-12">
         <div class="vc_column-inner ">
             <div class="wpb_wrapper">
@@ -6,27 +6,13 @@
 
                 <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">
                     <div class="wpb_wrapper">
-                        <h1 style="text-align: center; font-size: 32px; font-weight: 600 ; color: #fff !important;">TIN TỨC</h1>
-
+                        <h1 style="text-align: center; font-size: 32px; font-weight: 600 ; color: #f1c40f !important;">TIN TỨC</h1>
                     </div>
                 </div>
                 <div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div>
                 <div class="vc_grid-container-wrapper vc_clearfix">
-                    <div class="vc_grid-container vc_clearfix wpb_content_element vc_basic_grid home-news-content" data-initial-loading-animation="none" data-vc-grid-settings="{&quot;page_id&quot;:1985,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1536373796445-6b508770-f718-9&quot;,&quot;tag&quot;:&quot;vc_basic_grid&quot;}" data-vc-request="https://cybercore.vn/wp-admin/admin-ajax.php" data-vc-post-id="1985" data-vc-public-nonce="34e458584a">
-                        <style type="text/css">
-                            img.wp-smiley,
-                            img.emoji {
-                                display: inline !important;
-                                border: none !important;
-                                box-shadow: none !important;
-                                height: 1em !important;
-                                width: 1em !important;
-                                margin: 0 .07em !important;
-                                vertical-align: -0.1em !important;
-                                background: none !important;
-                                padding: 0 !important;
-                            }
-                        </style>
+                    <div class="vc_grid-container vc_clearfix wpb_content_element vc_basic_grid home-news-content" >
+
                         <div class="vc_grid vc_row vc_grid-gutter-15px vc_pageable-wrapper vc_hook_hover" data-vc-pageable-content="true">
                             <div class="vc_pageable-slide-wrapper vc_clearfix" data-vc-grid-content="true">
                                 <div class="vc_grid-item vc_clearfix vc_col-sm-4 vc_grid-item-zone-c-bottom vc_visible-item">

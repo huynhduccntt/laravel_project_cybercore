@@ -1,18 +1,18 @@
-<div id="y-kien" data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid" style="position: relative; left: -43px; box-sizing: border-box; width: 1266px; padding-left: 43px; padding-right: 43px;">
+<div id="y-kien" data-vc-full-width="true" data-vc-full-width-init="true" class="vc_row wpb_row vc_row-fluid" >
     <div class="wpb_column vc_column_container vc_col-sm-12">
         <div class="vc_column-inner ">
             <div class="wpb_wrapper">
                 <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
                 <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp title-ykien wpb_start_animation animated">
                     <div class="wpb_wrapper">
-                        <h1 style="text-align: center; font-size: 32px; font-weight: 600 ; color: #fff !important;">Ý KIẾN</h1>
-                        <h1 style="text-align: center; font-size: 24px; font-weight: 400; color: #f00 !important;">CỦA KHÁCH HÀNG</h1>
+                        <h1 style="text-align: center; font-size: 32px; font-weight: 600 ; color: #f1c40f !important;">Ý KIẾN</h1>
+                        <h1 style="text-align: center; font-size: 24px; font-weight: 400; color: #f5f6fa !important;">CỦA KHÁCH HÀNG</h1>
 
                     </div>
                 </div>
                 <div class="vc_icon_element vc_icon_element-outer quote-icon wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_icon_element-align-center wpb_start_animation animated">
                     <div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-size-md vc_icon_element-style- vc_icon_element-background-color-grey">
-                        <span class="vc_icon_element-icon fa fa-quote-left" style="color:#ff0000 !important"></span></div>
+                        <span class="vc_icon_element-icon fa fa-quote-left" style=" color : #1e90ff !important "></span></div>
                 </div>
 
                 <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_appear appear vc_custom_1532690138250 y-kien-kh wpb_start_animation animated">

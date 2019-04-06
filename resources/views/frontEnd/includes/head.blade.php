@@ -24,6 +24,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Config CSS EVN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C600%2C700%2C700italic%7COswald%3A400%2C300%7CVollkorn%3A400%2C400italic'>
     <link href="{{URL::asset('frontEnd/css/bootstrap.min.css')}}" rel="stylesheet" />
     <link href="{{URL::asset('frontEnd/css/slick.css')}}" rel="stylesheet">
     <link href="{{URL::asset('frontEnd/css/slick-theme.css')}}" rel="stylesheet">
