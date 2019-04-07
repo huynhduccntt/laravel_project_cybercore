@@ -1,7 +1,8 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+
 <script src="{{URL::asset('frontEnd/js/bootstrap.min.js')}}"></script>
-<script src="{{URL::asset('frontEnd/js/popper.js')}}"></script>
 <script src="{{URL::asset('frontEnd/js/bootstrap.bundle.min.js')}}"></script>
 <script src="{{URL::asset('frontEnd/js/mail.js')}}"></script>
 <script src="{{URL::asset('frontEnd/js/migration.js')}}"></script>
@@ -13,6 +14,33 @@
 <script src="{{URL::asset('frontEnd/js/scrollspy.js')}}"></script>
 <script src="{{URL::asset('frontEnd/js/jquery.ck.min.js')}}"></script>
 <script src="{{URL::asset('frontEnd/js/ninjapopups.min.js')}}"></script>
+<script src="{{URL::asset('frontEnd/js/owl.carousel.min.js')}}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+<script>
+    $(document).ready(function() {
+        $('.customer-logos').slick({
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 3000,
+            arrows: false,
+            dots: false,
+            pauseOnHover: false,
+            responsive: [{
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 1
+                }
+            }, {
+                breakpoint: 520,
+                settings: {
+                    slidesToShow: 1
+                }
+            }]
+        });
+    });
+</script>
 <!-- 
 <script src="{{URL::asset('frontEnd/js/js_composer/assets/js/dist/js_composer_front.min3c21.js?ver=5.1.1')}}"></script>
 <script src="{{URL::asset('frontEnd/js/js_composer/assets/lib/waypoints/waypoints.min3c21.js?ver=5.1.1')}}"></script>

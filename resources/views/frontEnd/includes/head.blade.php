@@ -35,5 +35,7 @@
     <link href="{{URL::asset('frontEnd/css/js_composer.min.css')}}" rel="stylesheet" />
     <link href="{{URL::asset('frontEnd/css/animate.min.css')}}" id='animate-css-css' rel="stylesheet" type='text/css' media='all' />
     <link rel='dns-prefetch' href='../s.w.org/index.html' />
+    <link href="{{URL::asset('frontEnd/css/owl.carousel.css')}}" rel="stylesheet">
+
 
 </head>

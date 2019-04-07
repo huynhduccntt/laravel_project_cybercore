@@ -31,8 +31,8 @@
 
                                 <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_left-to-right left-to-right home-processes-process-header wpb_start_animation animated">
                                     <div class="wpb_wrapper">
-                                        <h1  style=" color: #f0c20f !important;">Tiếp nhận</h1>
-                                        <h1  style=" color: #f0c20f !important;">thông tin khách hàng</h1>
+                                        <h1  style=" color: #1e90ff !important;">Tiếp nhận</h1>
+                                        <h1  style=" color: #1e90ff !important;">thông tin khách hàng</h1>
 
                                     </div>
                                 </div>
@@ -103,8 +103,8 @@
 
                                 <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_left-to-right left-to-right home-processes-process-header wpb_start_animation animated">
                                     <div class="wpb_wrapper">
-                                        <h1  style=" color: #f0c20f !important;">Thi công, trang trí</h1>
-                                        <h1  style=" color: #f0c20f !important;">và lắp đặt phòng máy</h1>
+                                        <h1  style=" color: #1e90ff !important;">Thi công, trang trí</h1>
+                                        <h1  style=" color: #1e90ff !important;">và lắp đặt phòng máy</h1>
 
                                     </div>
                                 </div>
@@ -174,7 +174,7 @@
 
                                 <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_left-to-right left-to-right home-processes-process-header wpb_start_animation animated">
                                     <div class="wpb_wrapper">
-                                        <h1  style=" color: #f0c20f !important;">Khai trương</h1>
+                                        <h1  style=" color: #1e90ff !important;">Khai trương</h1>
 
                                     </div>
                                 </div>

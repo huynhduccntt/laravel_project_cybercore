@@ -7,7 +7,7 @@
                 </div>
             </div>
             <div class="row mb-3 align-items-stretch">
-                <div class="col-md-4 col-lg-4 mb-4 mb-lg-4">
+                <div class="col-md-4 col-lg-4 mb-4 mb-lg-4 new__hover">
 
                     <div>
                         <div class="vc_grid-item-mini vc_clearfix">
@@ -54,7 +54,7 @@
                     </div>
 
                 </div>
-                <div class="col-md-4 col-lg-4 mb-4 mb-lg-4">
+                <div class="col-md-4 col-lg-4 mb-4 mb-lg-4 new__hover">
 
                     <div>
                         <div class="vc_grid-item-mini vc_clearfix">
@@ -101,7 +101,7 @@
                     </div>
 
                 </div>
-                <div class="col-md-4 col-lg-4 mb-4 mb-lg-4">
+                <div class="col-md-4 col-lg-4 mb-4 mb-lg-4 new__hover">
 
                     <div>
                         <div class="vc_grid-item-mini vc_clearfix">
@@ -158,3 +158,11 @@
     </div>
 </div>
 </div>
+<style>
+    .new__hover{
+    border: 1px solid transparent;
+    }
+    .new__hover:hover{
+    border: 1px solid #1e90ff;
+    }
+</style>
