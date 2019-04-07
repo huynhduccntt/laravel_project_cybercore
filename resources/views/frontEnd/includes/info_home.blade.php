@@ -13,6 +13,8 @@
             </div>
         </div>
     </div>
+</div>
+<div class="container " style="position: relative;  ">
 
     <section class="customer-logos slider vc_row wpb_row vc_row-fluid">
         <div class="slide wpb_column vc_column_container vc_col-sm-6 vc_col-lg-6 vc_col-md-6 vc_col-xs-12">
@@ -41,7 +43,7 @@
                 <div class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top  home-features-feature-image wpb_start_animation animated">
 
                     <figure class="wpb_wrapper vc_figure">
-                        <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="67" height="70" src="http://127.0.0.1:8000/frontEnd/images/12/giaiphap.png" class="vc_single_image-img attachment-full" alt=""></div>
+                        <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="67" height="70" src="http://127.0.0.1:8000/frontEnd/images/11/169400.png" class="vc_single_image-img attachment-full" alt=""></div>
                     </figure>
                 </div>
 
@@ -63,7 +65,7 @@
                 <div class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top  home-features-feature-image wpb_start_animation animated">
 
                     <figure class="wpb_wrapper vc_figure">
-                        <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="116" height="116" src="http://127.0.0.1:8000/frontEnd/images/11/134507.png" class="vc_single_image-img attachment-full" alt=""></div>
+                        <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="116" height="116" src="http://127.0.0.1:8000/frontEnd/images/12/cauhinh.png" class="vc_single_image-img attachment-full" alt=""></div>
                     </figure>
                 </div>
 
@@ -84,7 +86,7 @@
                 <div class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top  home-features-feature-image wpb_start_animation animated">
 
                     <figure class="wpb_wrapper vc_figure">
-                        <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="67" height="70" src="http://127.0.0.1:8000/frontEnd/images/12/giaiphap.png" class="vc_single_image-img attachment-full" alt=""></div>
+                        <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="67" height="70" src="http://127.0.0.1:8000/frontEnd/images/12/tool.png" class="vc_single_image-img attachment-full" alt=""></div>
                     </figure>
                 </div>
 
@@ -129,7 +131,7 @@
                 <div class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_bottom-to-top bottom-to-top  home-features-feature-image wpb_start_animation animated">
 
                     <figure class="wpb_wrapper vc_figure">
-                        <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="67" height="70" src="{{ URL::to('frontEnd/images/12/giaiphap.png')}}" class="vc_single_image-img attachment-full" alt=""></div>
+                        <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="67" height="70" src="{{ URL::to('frontEnd/images/11/326731.png')}}" class="vc_single_image-img attachment-full" alt=""></div>
                     </figure>
                 </div>
 
@@ -174,117 +176,118 @@
 
     </section>
 
-    <style>
-        /* Slider */
+</div>
+<style>
+    /* Slider */
 
-        .slick-slide {
-            margin: 0px 20px;
-        }
+    .slick-slide {
+        margin: 0px 20px;
+    }
 
-        .slick-slide img {
-            width: 100%;
-        }
+    .slick-slide img {
+        width: 100%;
+    }
 
-        .slick-slider {
-            position: relative;
-            display: block;
-            box-sizing: border-box;
-            -webkit-user-select: none;
-            -moz-user-select: none;
-            -ms-user-select: none;
-            user-select: none;
-            -webkit-touch-callout: none;
-            -khtml-user-select: none;
-            -ms-touch-action: pan-y;
-            touch-action: pan-y;
-            -webkit-tap-highlight-color: transparent;
-        }
+    .slick-slider {
+        position: relative;
+        display: block;
+        box-sizing: border-box;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        -webkit-touch-callout: none;
+        -khtml-user-select: none;
+        -ms-touch-action: pan-y;
+        touch-action: pan-y;
+        -webkit-tap-highlight-color: transparent;
+    }
 
-        .slick-list {
-            position: relative;
-            display: block;
-            overflow: hidden;
-            margin: 0;
-            padding: 0;
-        }
+    .slick-list {
+        position: relative;
+        display: block;
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+    }
 
-        .slick-list:focus {
-            outline: none;
-        }
+    .slick-list:focus {
+        outline: none;
+    }
 
-        .slick-list.dragging {
-            cursor: pointer;
-            cursor: hand;
-        }
+    .slick-list.dragging {
+        cursor: pointer;
+        cursor: hand;
+    }
 
-        .slick-slider .slick-track,
-        .slick-slider .slick-list {
-            -webkit-transform: translate3d(0, 0, 0);
-            -moz-transform: translate3d(0, 0, 0);
-            -ms-transform: translate3d(0, 0, 0);
-            -o-transform: translate3d(0, 0, 0);
-            transform: translate3d(0, 0, 0);
-        }
+    .slick-slider .slick-track,
+    .slick-slider .slick-list {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        -o-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
 
-        .slick-track {
-            position: relative;
-            top: 0;
-            left: 0;
-            display: block;
-        }
+    .slick-track {
+        position: relative;
+        top: 0;
+        left: 0;
+        display: block;
+    }
 
-        .slick-track:before,
-        .slick-track:after {
-            display: table;
-            content: '';
-        }
+    .slick-track:before,
+    .slick-track:after {
+        display: table;
+        content: '';
+    }
 
-        .slick-track:after {
-            clear: both;
-        }
+    .slick-track:after {
+        clear: both;
+    }
 
-        .slick-loading .slick-track {
-            visibility: hidden;
-        }
+    .slick-loading .slick-track {
+        visibility: hidden;
+    }
 
-        .slick-slide {
-            display: none;
-            float: left;
-            height: 100%;
-            min-height: 1px;
-        }
+    .slick-slide {
+        display: none;
+        float: left;
+        height: 100%;
+        min-height: 1px;
+    }
 
-        [dir='rtl'] .slick-slide {
-            float: right;
-        }
+    [dir='rtl'] .slick-slide {
+        float: right;
+    }
 
-        .slick-slide img {
-            display: block;
-        }
+    .slick-slide img {
+        display: block;
+    }
 
-        .slick-slide.slick-loading img {
-            display: none;
-        }
+    .slick-slide.slick-loading img {
+        display: none;
+    }
 
-        .slick-slide.dragging img {
-            pointer-events: none;
-        }
+    .slick-slide.dragging img {
+        pointer-events: none;
+    }
 
-        .slick-initialized .slick-slide {
-            display: block;
-        }
+    .slick-initialized .slick-slide {
+        display: block;
+    }
 
-        .slick-loading .slick-slide {
-            visibility: hidden;
-        }
+    .slick-loading .slick-slide {
+        visibility: hidden;
+    }
 
-        .slick-vertical .slick-slide {
-            display: block;
-            height: auto;
-            border: 1px solid transparent;
-        }
+    .slick-vertical .slick-slide {
+        display: block;
+        height: auto;
+        border: 1px solid transparent;
+    }
 
-        .slick-arrow.slick-hidden {
-            display: none;
-        }
-    </style>
+    .slick-arrow.slick-hidden {
+        display: none;
+    }
+</style>
